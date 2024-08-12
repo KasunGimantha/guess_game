@@ -1,5 +1,5 @@
 # guess_game
-How to play :
-\nEnter the value range you want to guess the number
-\nEnter your guessing number
+How to play :<br>
+Enter the value range you want to guess the number<br>
+nEnter your guessing number<br>
 If you guess It correctly, You win! Congratulations!
