@@ -1,5 +1,5 @@
 import random
-
+#welcoming to game
 print(f'{'*'*10}Welcome to Guess the Number!{'*'*10}')
 
 print('What number range you like to guess:')
@@ -11,7 +11,7 @@ print()
 print('Your number is generated.😎')
 print(f'The number is between {a} and {b}🙄')
 print('Can you guess it?')
-
+#generating random number
 random_number = random.randint(a, b)
 
 player_number = None
